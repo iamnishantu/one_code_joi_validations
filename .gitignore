@@ -1,0 +1,8 @@
+node_modules/
+dump/
+csv/*
+!csv/placeholder
+public/images/*
+!public/images/placeholder
+!public/images/users/placeholder
+!public/images/categories/placeholder
